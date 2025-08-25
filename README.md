@@ -1,0 +1,2 @@
+# omgodo
+redz script lite
